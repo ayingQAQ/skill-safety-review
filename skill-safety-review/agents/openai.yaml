@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skill Safety Review"
+  short_description: "Review downloaded skills for static safety risks"
+  default_prompt: "Use $skill-safety-review to assess whether this local skill folder looks safe before I install it."
